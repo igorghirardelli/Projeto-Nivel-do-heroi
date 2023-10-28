@@ -1,5 +1,5 @@
 let heroi = " igor"
-let nivel = "20011"
+let nivel = "20000"
 
 console.log("nome do meu heroi:" +heroi)
 console.log("o meu level é:" +nivel)
